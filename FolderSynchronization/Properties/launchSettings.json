@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderSynchronization": {
+      "commandName": "Project",
+      "commandLineArgs": "source\r\nreplica\r\n10\r\nexample.txt"
+    }
+  }
+}
