@@ -1,0 +1,14 @@
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\bin\Debug\net8.0\FolderSynchronization.exe
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\bin\Debug\net8.0\FolderSynchronization.deps.json
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\bin\Debug\net8.0\FolderSynchronization.runtimeconfig.json
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\bin\Debug\net8.0\FolderSynchronization.dll
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\bin\Debug\net8.0\FolderSynchronization.pdb
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\obj\Debug\net8.0\FolderSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\obj\Debug\net8.0\FolderSynchronization.AssemblyInfoInputs.cache
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\obj\Debug\net8.0\FolderSynchronization.AssemblyInfo.cs
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\obj\Debug\net8.0\FolderSynchronization.csproj.CoreCompileInputs.cache
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\obj\Debug\net8.0\FolderSynchronization.dll
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\obj\Debug\net8.0\refint\FolderSynchronization.dll
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\obj\Debug\net8.0\FolderSynchronization.pdb
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\obj\Debug\net8.0\FolderSynchronization.genruntimeconfig.cache
+D:\Users\spb\Repos\GitHub\FolderSynchronization\FolderSynchronization\obj\Debug\net8.0\ref\FolderSynchronization.dll
